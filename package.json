@@ -1,6 +1,6 @@
 {
   "name": "jsonschema-draft4",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A copy of json schema draft 4.",
   "scripts": {
     "test": "node schema.json"
